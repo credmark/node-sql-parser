@@ -74,7 +74,7 @@
     "eslint-plugin-import": "^2.16.0",
     "filemanager-webpack-plugin": "^3.1.1",
     "istanbul-instrumenter-loader": "^3.0.1",
-    "mocha": "^10.0.0",
+    "mocha": "^12.0.3",
     "mochapack": "^2.0.3",
     "nyc": "15.1.0",
     "pegjs": "^0.10.0",
@@ -84,7 +84,7 @@
     "source-map-support": "^0.5.19",
     "tinyify": "^3.0.0",
     "vscode-mocha-hmr": "^1.0.0",
-    "webpack": "^4.43.0",
+    "webpack": "^5.111.1",
     "webpack-cli": "^4.7.0",
     "webpack-node-externals": "^3.0.0"
   },
